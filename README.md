@@ -1,0 +1,3 @@
+# In progress...
+
+I converted data from COCO -> YOLO format and trained YOLOv11s. But I need to change a lot of things here, so it is only a temporary result
